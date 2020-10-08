@@ -15,6 +15,6 @@
 - substitution matrix file - file containing the substitution matrix to use (i.e. BLOSUM62 for protein sequences)
 - gap penalty value to be used in alignment 
 
-####Human-mouse P53 example
+#### Human-mouse P53 example
     mvn package
     java -jar target bioinfo_assignment2-0.1.0.jar human_mouseP53.txt BLOSUM62.txt -6
