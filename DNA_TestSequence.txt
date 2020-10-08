@@ -1,0 +1,5 @@
+AGTCGTATAGAAA
+
+AGGACCTCTCAGA
+
+# Short test DNA sequences
